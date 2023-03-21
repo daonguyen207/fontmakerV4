@@ -1,0 +1,4 @@
+MakeFontV4	KEYWORD1
+setArea	KEYWORD1
+
+
